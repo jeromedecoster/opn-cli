@@ -1,0 +1,19 @@
+{
+  "name": "opn-cli",
+  "version": "0.1.0",
+  "description": "Opens stuff like websites, files, directories, executables. Cross-platform.",
+  "readme": "Opens stuff like websites, files, directories, executables. Cross-platform.",
+  "bin": {
+    "opn": "cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "repository": "jeromedecoster/opn-cli",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "meow": "^3.6.0",
+    "opn": "^3.0.3"
+  }
+}
